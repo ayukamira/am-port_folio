@@ -462,51 +462,6 @@ content: '';
 
 
 
-/*------------------------------
-*
-*slide
-*
-*
---------------------------------*/
-
-.fade-in-left {
-   opacity: 0;
-   animation: fadein-left 1.5s 2s 2s ease-out forwards;
-}
-@keyframes fadein-left {
-   0% {
-      opacity: 0;
-      transform: translateX(-20px);
-   }
-   100% {
-      opacity: 1;
-      transform: translateX(0);
-   }
-}
-
-.fade-in-top {
-   opacity: 0;
-   animation: fadein-top 2s .3s 2s ease-out forwards;
-}
-@keyframes fadein-top {
-   0% {
-      opacity: 0;
-      transform: translateY(-20px);
-   }
-   100% {
-      opacity: 1;
-      transform: translateY(0);
-   }
-}
-.slide-bottom {
-   opacity: 0;
-   transform: translateY(20px);
-   transition: all 1.3s 0.5s ease-out;
- }
-
-
-
-
 
 
 
