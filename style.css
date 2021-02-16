@@ -392,7 +392,7 @@ content: '';
 }	
 .fear-text {
     font-size: 3vw;
-    padding-top: 5%
+    padding-top: 5%;
 }
 	
 /*------------------------------
@@ -412,8 +412,8 @@ content: '';
 		width: 20%;
 	}
 	.pro-text{
-     line-height: 3.5em;
-    font-size: 1.5vw;
+    line-height: 2em;
+    font-size: 3vw;
 	}
 	
 /*------------------------------
@@ -429,9 +429,11 @@ content: '';
 		font-size: 1.5vw;
 	}
 	.g-skill {
-    margin: 10% 5%;
+       padding: 7% 5%;
 }
-	
+	.skill-sub-title{
+		font-size: 3.5vw;
+	}
 /*------------------------------
 *
 *copy
@@ -439,7 +441,7 @@ content: '';
 *
 --------------------------------*/		
 	.copy{
-		font-size: 1vw;
+	     font-size: 1.5vw;
 	}	
 
 }
@@ -455,7 +457,7 @@ content: '';
 		width: 25%;
 	}
 	.pro-title{
-		width: 10%;
+		width: 20%;
 	}
 .et-hero-tab:active {
       color:#000;
@@ -465,10 +467,6 @@ content: '';
 	
 	
 	
-}
-
-
-
 
 
 
