@@ -10,6 +10,12 @@ body{
 	font-size: 1.6rem;
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing:grayscale;
+	
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+
 }
 
 .text-center{
@@ -312,6 +318,7 @@ content: '';
 	margin-top: 10%;
 	padding:0.5% 0;
 	background-color:  rgba(255,225,0,1.0);
+	margin-bottom:0px;
 }
 
 
