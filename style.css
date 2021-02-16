@@ -407,6 +407,8 @@ content: '';
 	}
 	.img-pro{
 		width: 25%;
+		display: flex;
+		align-items: flex-start;
 	}
 	.pro-title{
 		width: 20%;
