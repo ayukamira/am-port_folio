@@ -202,10 +202,12 @@ content: '';
 	border: solid 1px rgba(151,151,151,1.00);
 }
 .img:hover{
-	width: 37%;
+	transition:.2s;
+	opacity:0.5;
 }
 .img:active{
-	width: 37%;
+	transition:.2s;
+	opacity:0.5;
 }
 .work-img{
 	margin-top: 5%;
